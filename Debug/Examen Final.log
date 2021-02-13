@@ -1,0 +1,5 @@
+﻿  agencia.cpp
+C:\Users\norma\source\repos\Examen Final\agencia.cpp(316,10): warning C4101: 'cant': variable local sin referencia
+C:\Users\norma\source\repos\Examen Final\agencia.cpp(317,12): warning C4101: 'tot': variable local sin referencia
+C:\Users\norma\source\repos\Examen Final\agencia.cpp(551): warning C4715: 'agencia::ValidarEntero': no todas las rutas de acceso de control devuelven un valor
+  Examen Final.vcxproj -> C:\Users\norma\source\repos\Examen Final\Debug\Examen Final.exe
